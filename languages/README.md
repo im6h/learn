@@ -14,7 +14,7 @@
 
 ## Why choice list language:
 - Nếu bạn để ý thì đây là những ngôn ngữ đang hot theo thống kê của stackoverflow
-- Và nếu tinh tế hơn thì có thể thấy được tôi đã chọn đủ cho bạn ngôn ngữ cho 3 loại lập trình:
+- Và nếu tinh tế hơn thì có thể thấy được mình đã chọn đủ cho bạn ngôn ngữ cho 3 loại lập trình:
 	- Function programming: Javascript là đại diện, mọi thứ đều có thể là function.
 	- Object-oriented programming: Java là đại diện. Nếu có ai đó nói bạn hướng đối tượng là gì thì Java luôn là một lựa chọn đúng đắn. Typesciprt, Dart thì đều là những ngôn ngữ hướng đối tượng mới mẻ nhưng nó có thể pha lẫn chút của function programming.
 	- Struct programming: Mình chọn Rust thay vì C/C++ tuy nhiên có thể Rust sẽ khó học hơn so với C/C++. Hãy yêu Rust như yêu cờ rush của bạn vậy. :heart: 

@@ -51,7 +51,7 @@ public class Account {
 
  **a. Comment in-line:**
 ```
-	// kiểm tra khi đưa một id vào, id đó có tồn tại trong database không. Nếu đúng trả về true, sai trả về false
+// kiểm tra khi đưa một id vào, id đó có tồn tại trong database không. Nếu đúng trả về true, sai trả về false
 ```
 
 **b. Comment Header file ( lưu ý là comment trong file Main class)**
@@ -94,6 +94,6 @@ Cá nhân mình thì thích kiểu comment group:
 ```
 /** @group footer */
 #footer {
-	color: white;
+ color: white;
 }
 ```
