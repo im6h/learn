@@ -1,4 +1,6 @@
 # Learn code to change the world!
+### Table of contents:
+
 - [Architecture](#architecture)
 	- [Microservice](http://www.example.com)
 	- [Monolith](skdjlf)
