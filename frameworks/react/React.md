@@ -7,7 +7,8 @@ Ngược một chút, mình sẽ kể về những thứ đang sử dụng React
 ### Đặc trưng của React:
 - JSX (gần đây là TSX): là cú pháp đặc biệt hay còn biết đến với cái tên JavaScript Extension, phần mở rộng của JavaScript dùng để nhúng thêm HTML vào
 - Virual DOM:
-- Component:
+- Component: Mọi thứ trong React, ta đều có thể coi là một component. Hiểu theo đúng nghĩa đen, nó là các thành phần. Ý tưởng đưa ra là chia nhỏ các giao diện UI của người dùng thành những phần nhỏ hơn và có thể tái sử dụng nó với những page có nét tương đồng.
 - Functional components:
 - Lifecycle methods:
 - React Hooks:
+- State: Cái này có thể hiểu là trạng thái, trạng thái của component
