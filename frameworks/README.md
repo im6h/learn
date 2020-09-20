@@ -4,23 +4,23 @@
 
 ## List Framework:
 - Web 
-	- [x] ReactJS (Javascript, Typescript - Frontend)
-	- [x] VueJS  (Javascript, Typescript - Frontend)
-	- [ ] Angular  (Javascript, Typescript - Frontend)
-	- [x] ExpressJS  (Javascript, Typescript - Backend)
-	- [x] Spring Boot (Java - Backend) 
-	- [x] Django (Python - Backend)
-	- [ ] Flask (Python - Backend)
-	- [x] NuxtJS (Javascript, Typescript, Vue)
-	- [ ] NextJS (Javascript, Typescript, React)
+	- [ ] [ReactJS](/frameworks/react/react.md)
+	- [ ] [VueJS](/frameworks/vue/vue.md)
+	- [ ] [Angular](/frameworks/angular/angular.md)
+	- [ ] [ExpressJS](/frameworks/express/express.md)
+	- [ ] [Spring Boot](/frameworks/spring/spring.md)
+	- [ ] [Django](/frameworks/django/django.md)
+	- [ ] [Flask](/frameworks/flask/flask.md)
+	- [ ] [NuxtJS](/frameworks/nuxt/nuxt.md)
+	- [ ] [NextJS](/frameworks/next/next.md)
 - Mobile
-	- [x] Android (Java)
+	- [ ] [Android](/frameworks/android/android.md)
 - Cross platform
-	- [ ] Flutter (Dart)
-	- [x] React-Native (Javascript, Typescript)
-	- [ ] Ionic
-	- [ ] Wix (Vue)
+	- [ ] [Flutter](/frameworks/flutter/flutter.md)
+	- [ ] [React-Native](/frameworks/rn/rn.md)
+	- [ ] [Ionic](/frameworks/ionic/ionic.md)
+	- [ ] [Weex](/frameworks/weex/weex.md)
 - Desktop:
-	- [ ] ElectronJS (Javascript, Typescript, Angular, Vue, React)
+	- [ ] [ElectronJS](/frameworks/electron/electron.md)
 
 **Note: Mình đánh dấu tích là những thứ mình từng học qua chứ không có định nghĩa nói là học xong.**
