@@ -4,23 +4,23 @@
 
 ## List Framework:
 - Web 
-	- [x] ReactJS (Javascript, Typescript - Frontend)
-	- [x] VueJS  (Javascript, Typescript - Frontend)
-	- [ ] Angular  (Javascript, Typescript - Frontend)
-	- [x] ExpressJS  (Javascript, Typescript - Backend)
-	- [x] Spring Boot (Java - Backend) 
-	- [x] Django (Python - Backend)
-	- [ ] Flask (Python - Backend)
-	- [x] NuxtJS (Javascript, Typescript, Vue)
-	- [ ] NextJS (Javascript, Typescript, React)
+	- [ ] [ReactJS](/react/react.md)
+	- [ ] [VueJS](/vue/vue.md)
+	- [ ] [Angular](/angular/angular.md)
+	- [ ] [ExpressJS](/express/express.md)
+	- [ ] [Spring Boot](/spring/spring.md)
+	- [ ] [Django](/django/django.md)
+	- [ ] [Flask](/flask/flask.md)
+	- [ ] [NuxtJS](/nuxt/nuxt.md)
+	- [ ] [NextJS](/next/next.md)
 - Mobile
-	- [x] Android (Java)
+	- [ ] [Android](/android/android.md)
 - Cross platform
-	- [ ] Flutter (Dart)
-	- [x] React-Native (Javascript, Typescript)
-	- [ ] Ionic
-	- [ ] Wix (Vue)
+	- [ ] [Flutter](/flutter/flutter.md)
+	- [ ] [React-Native](/rn/rn.md)
+	- [ ] [Ionic](/ionic/ionic.md)
+	- [ ] [Weex](/weex/weex.md)
 - Desktop:
-	- [ ] ElectronJS (Javascript, Typescript, Angular, Vue, React)
+	- [ ] [ElectronJS](/electron/electron.md)
 
 **Note: Mình đánh dấu tích là những thứ mình từng học qua chứ không có định nghĩa nói là học xong.**
